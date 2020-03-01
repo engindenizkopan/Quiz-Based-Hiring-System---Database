@@ -9,7 +9,7 @@ TryMe
 Group #21
 
 Members:
-Engin Deniz Kopan
-Sarp Tekin
-Pegah Soltani 
+Engin Deniz Kopan,
+Sarp Tekin,
+Pegah Soltani,
 Denizhan Soydaş
